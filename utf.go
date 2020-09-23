@@ -1,6 +1,8 @@
+// utf.go.
+
 ////////////////////////////////////////////////////////////////////////////////
 //
-// Copyright © 2019 by Vault Thirteen.
+// Copyright © 2019..2020 by Vault Thirteen.
 //
 // All rights reserved. No part of this publication may be reproduced,
 // distributed, or transmitted in any form or by any means, including
@@ -17,9 +19,9 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-package unicode
-
 // Unicode Symbols Processing.
+
+package unicode
 
 import (
 	"math"
